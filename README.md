@@ -2,15 +2,15 @@
 
 This is a blank webapp template for Raku Cro. Use it to create what you need and want.
 
-Created with Comma: (https://commaide.com/download)[https://commaide.com/download]
+Created with Comma: [https://commaide.com/download](https://commaide.com/download)
 
-See also: (https://github.com/croservices/cro-webapp)[https://github.com/croservices/cro-webapp]
+See also: [https://github.com/croservices/cro-webapp](https://github.com/croservices/cro-webapp)
 
-These instructions are from: (https://cro.services/docs/intro/getstarted)[https://cro.services/docs/intro/getstarted]
+These instructions are from: [https://cro.services/docs/intro/getstarted](https://cro.services/docs/intro/getstarted)
 
 # Cro 
 
-(Cro)[https://cro.services/] is a set of libraries for building reactive distributed systems, lovingly crafted to take advantage of all Raku has to offer. The high level APIs make the easy things easy, and the asynchronous pipeline concept at Cro's heart makes the hard things possible.
+[Cro](https://cro.services/) is a set of libraries for building reactive distributed systems, lovingly crafted to take advantage of all Raku has to offer. The high level APIs make the easy things easy, and the asynchronous pipeline concept at Cro's heart makes the hard things possible.
 
 Ready to get started? Just `zef install --/test cro` and check out the documentation. 
 
