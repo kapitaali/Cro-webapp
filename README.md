@@ -20,7 +20,7 @@ Here's a list of things to do to get Cro running on your machine.
 
 ### Install Raku
 
-Cro services are written in Raku; if you have not yet installed a Raku compiler, see these instructions.
+Cro services are written in Raku; if you have not yet installed a Raku compiler, [see these instructions.](https://raku.org/downloads/)
 
 ### Install Cro
 
